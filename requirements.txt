@@ -1,0 +1,6 @@
+sarvamai
+python-dotenv
+rich
+sounddevice
+soundfile
+numpy
